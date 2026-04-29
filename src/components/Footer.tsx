@@ -75,7 +75,7 @@ export const Footer = () => {
 
         <div className="pt-12 border-t border-border/50 flex flex-col md:flex-row justify-between items-center gap-8">
           <div className="text-[10px] font-bold uppercase tracking-[0.4em] text-muted-foreground">
-            © 2026 STERLING STRATEGY. ALL RIGHTS RESERVED.
+            © 2026 STERLING STRATEGY. ALL RIGHTS RESERVED. Powered By K&H TECH SOL
           </div>
           <div className="text-[10px] font-bold uppercase tracking-[0.4em] text-muted-foreground">
             CRAFTED FOR DOMINANCE.
